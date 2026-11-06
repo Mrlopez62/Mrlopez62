@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Josh! aka @Mrlopez62
 - 👀 I’m interested in sports, Marvel, & the future.
-- 🌱 I’m currently learning backend development. 
-- 💞️ I’m looking to collaborate on Web 3.0 projects
 - 📫 How to reach me -> Lopez.Joshua34@gmail.com
 
 <!---
